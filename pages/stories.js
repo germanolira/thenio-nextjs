@@ -6,7 +6,7 @@ function Stories() {
             <h1>Stories</h1>
 
             <Link href="/">
-                <a>Home</a>
+                <a>Stories</a>
             </Link>
         </div>
         )
